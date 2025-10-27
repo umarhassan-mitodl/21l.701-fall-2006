@@ -28,7 +28,7 @@ Introductions
 
 Akhmatova Poems; Discussion and Biography
 
-Film: Aranovich, Semyon. [*The Anna Achmatova File*](http://imdb.com/title/tt0097743/)*.* 1989.
+Film: Aranovich, Semyon. {{% resource_link "38ca0198-339c-472a-b319-26a3981c797f" "*The Anna Achmatova File*" %}}*.* 1989.
 
 {{< tdclose >}}{{< tdopen >}}
 
